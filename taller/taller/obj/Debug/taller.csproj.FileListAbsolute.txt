@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Desktop\talle luben perez\taller\taller\obj\Debug\taller.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\OneDrive\Desktop\talle luben perez\taller\taller\bin\Debug\taller.exe.config
+C:\Users\Usuario\OneDrive\Desktop\talle luben perez\taller\taller\bin\Debug\taller.exe
+C:\Users\Usuario\OneDrive\Desktop\talle luben perez\taller\taller\bin\Debug\taller.pdb
+C:\Users\Usuario\OneDrive\Desktop\talle luben perez\taller\taller\obj\Debug\taller.exe
+C:\Users\Usuario\OneDrive\Desktop\talle luben perez\taller\taller\obj\Debug\taller.pdb
